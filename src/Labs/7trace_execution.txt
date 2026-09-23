@@ -1,0 +1,23 @@
+a = 6
+b = 3
+c = 1
+
+if a not larger than b 
+gabon (FALSE)
+
+if a % b == 0 or c > 1
+alpha (TRUE)
+
+if b % a > 2
+FALSE
+FALSE
+FALSE
+
+if not (b == a) or a == b or b > alpha
+FALSE
+else
+foxtrot
+
+le programme affiche:
+alpha
+foxtrot

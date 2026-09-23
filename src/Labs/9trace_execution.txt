@@ -1,0 +1,17 @@
+a = 15
+b = 16
+
+a. a == b and a%b != 1 or b > a
+	false		true		true
+	TRUE
+b. a==b or not(b==16)
+	false	false
+	FALSE
+c. (a+b) > b and (a == 16 or b != 16)
+		true		false		false
+		FALSE
+D. not(a>b) or not(a - b > 0)
+	true			true
+	TRUE
+	
+	

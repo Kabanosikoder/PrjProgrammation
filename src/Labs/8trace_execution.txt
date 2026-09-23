@@ -1,0 +1,8 @@
+a = 15
+b = 16
+
+if a == b or a > b
+FALSE
+
+elif a <= 15 and b == 16
+Bonjour ! TRUE
