@@ -1,6 +1,6 @@
 @SuppressWarnings("ALL")
 public class Lab1Exos {
-    public static void main(){
+    public static void main(String[] args){
         // Aire et périmetre
         Clavier clavier = new Clavier();
         System.out.println("Entrée la longeur et la largeur: ");
