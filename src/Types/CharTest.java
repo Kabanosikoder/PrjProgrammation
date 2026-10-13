@@ -50,5 +50,7 @@ public class CharTest {
 
         int num = un + un;
         System.out.println(num);
+
+
     }
 }
