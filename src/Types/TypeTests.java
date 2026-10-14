@@ -23,5 +23,10 @@ public class TypeTests {
             System.out.println("Compteur : " + compteur);
             compteur++;
         }
+
+        double y = 2.5;
+        int x = (int) y;
+        String s = x + "k";
+        System.out.println(s);
     }
 }
