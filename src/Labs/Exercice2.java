@@ -1,3 +1,5 @@
+package Labs;
+
 @SuppressWarnings("ALL")
 public class Exercice2 {
     public static void main(String[] args) {

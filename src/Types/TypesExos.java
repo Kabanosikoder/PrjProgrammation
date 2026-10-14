@@ -13,8 +13,7 @@ public class TypesExos {
         }else {
             System.out.println("Une chaine est vide!");
         }
-
-
+        
         // Exo1
         Clavier clavier = new Clavier();
         char myChar = clavier.lireCharLn();
@@ -71,8 +70,6 @@ public class TypesExos {
                 break;
             case 12:
                 System.out.println("December");
-
-
         }
 
     }
